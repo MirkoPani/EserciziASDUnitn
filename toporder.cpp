@@ -112,7 +112,7 @@ int main() {
 	
 	
 
-    	out<<*max_element(begin(ccVector),end(ccVector))<<endl;
+    
 
 	//for (int i = 0; i<N; i++) cout<<grafo[i].id<<endl;
 }
